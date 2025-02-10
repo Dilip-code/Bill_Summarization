@@ -10,3 +10,4 @@ fastapi
 uvicorn 
 openpyxl
 python-dotenv
+together
